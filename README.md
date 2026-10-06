@@ -5,7 +5,7 @@ Développé dans le cadre de mon stage en DevOps & Sécurité chez **Triskelab**
 
 L'objectif principal de mon intervention était d'automatiser les déploiements et de durcir la sécurité de l'infrastructure globale
 
-## ack Technique & Outils
+## Stack Technique & Outils
 - **Développement :** Spring Boot, React, MySQL
 - **Conteneurisation & CI/CD :** Docker, automatisation des pipelines (tests & déploiement)
 - **Sécurité (SecOps) :** Fail2Ban, Suricata IDS/IPS, gestion stricte des clés SSH
